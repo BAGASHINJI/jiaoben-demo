@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  test
 // @author       bagashinji
 // @match        *://*
@@ -14,5 +14,5 @@
     'use strict';
 
     // Your code here...
-    console.log('hello world');
+    console.log('hello new world');
 })();
